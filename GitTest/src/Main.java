@@ -8,6 +8,8 @@ public class Main {
 		int x = 0;
 		
 		int y = x + 5;
+		
+		System.out.println("Das wurde auf dem Notebook geschrieben");
 	}
 
 }
