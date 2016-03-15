@@ -6,6 +6,8 @@ public class Main {
 		System.out.println("Deine mama");
 		
 		int x = 0;
+		
+		int y = x + 5;
 	}
 
 }
